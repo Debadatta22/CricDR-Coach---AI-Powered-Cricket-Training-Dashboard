@@ -16,6 +16,8 @@
 ![image](https://github.com/user-attachments/assets/c6829a89-6c73-4da4-8c2f-d10ee192f7ae)
 ![image](https://github.com/user-attachments/assets/5b25ffcd-46bf-4bea-ac81-be93811b3c8e)
 ![image](https://github.com/user-attachments/assets/d4128533-feaf-48fd-8b64-7860a373c553)
+![image](https://github.com/user-attachments/assets/351e8ba9-2f8d-42c3-b484-0880f99340bb)
+
 ![image](https://github.com/user-attachments/assets/342f1ea6-ca45-4e12-a3ef-0bcb7dac7cb5)
 ![image](https://github.com/user-attachments/assets/520b515e-8e22-49ea-9ba8-f6692698c09b)
 ![image](https://github.com/user-attachments/assets/66f304f8-ff66-4195-92ac-cfde136910c5)
@@ -23,10 +25,14 @@
 --------------------
 # 🏏 CricDR Coach - AI-Powered Cricket Training Dashboard
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://gleeful-cucurucho-a61064.netlify.app/)
-[![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.1-38B2AC.svg)](https://tailwindcss.com/)
+<p align="center">
+  <a href="https://gleeful-cucurucho-a61064.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Click%20Here%20to%20Visit%20CricDR%20Coach-0A192F?style=for-the-badge&logo=netlify&logoColor=white&color=purple" alt="Visit CricDR Coach App"/>
+  </a>
+</p>
+
+![CricDR Coach](https://github.com/user-attachments/assets/5d7a9161-6aa3-4a3e-b79f-36f5e88ff1bb)
+
 
 > **A comprehensive virtual coaching platform designed specifically for beginner cricketers to track progress, receive AI-powered feedback, and follow personalized training plans.**
 
