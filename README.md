@@ -1380,6 +1380,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 **Built with ❤️ for the Cricket Community**
+
 **Designed By Debadatta Rout**
 
 *Empowering the next generation of cricketers through technology*
