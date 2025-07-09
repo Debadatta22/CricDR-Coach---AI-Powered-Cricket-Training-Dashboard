@@ -74,11 +74,11 @@ Let me walk you through my comprehensive cricket training dashboard project that
 - [🤝 Contributing](#-contributing)
 - [🧠 Custom Features & Innovations](#-custom-features--innovations)
 - [🧩 Technical Challenges & Solutions](#-technical-challenges--solutions)
-- [🚀 Future Enhancements & Scalability](#-future-enhancements--scalability)
+
 - [🔧 Development Workflow & Best Practices](#-development-workflow--best-practices)
 - [🎯 Final Thoughts](#-final-thoughts)
 - [🔮 Future Enhancements](#-future-enhancements)
-- [📄 License](#-license)
+
 - [📞 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
 
@@ -96,7 +96,10 @@ I created CricDR Coach as a virtual coaching platform specifically tailored for 
 - **Bridge the coaching gap** for aspiring cricketers who lack access to professional coaching  
 - **Democratize cricket training** by making quality guidance accessible through technology  
 - **Provide structured learning** with AI-powered insights and personalized recommendations  
-- **Track and visualize progress** to boost motivation and identify areas for improvement  
+- **Track and visualize progress** to boost motivation and identify areas for improvement
+
+  ![Unique Features and Innovations - visual selection](https://github.com/user-attachments/assets/9b54435d-8b7c-4774-afb3-4ef393be1cc8)
+
 
 ---
 
@@ -117,6 +120,9 @@ I created CricDR Coach as a virtual coaching platform specifically tailored for 
 - **🧩 Comprehensive Platform**  
   A complete training management solution — all in one place
 
+  ![Unique Features and Innovations - visual selection (1)](https://github.com/user-attachments/assets/68a1b093-9c0c-46dc-96ec-d3344f2d6155)
+
+
 
 ### 🎪 The Problem It Solves
 
@@ -135,6 +141,10 @@ CricDR Coach provides:
 - **Comprehensive progress tracking** with visual analytics
 - **Motivational feedback** to keep you engaged
 - **Beautiful, intuitive interface** that makes training fun
+
+![Unique Features and Innovations - visual selection (2)](https://github.com/user-attachments/assets/f80ea368-4fc1-4f53-a000-62da2b1e8c14)
+
+
 
 ---
 
@@ -450,6 +460,8 @@ A complete cycle of:
      - Recommendations for improvement and training focus
      - Motivational messages and cricket quotes from legends
 
+![Unique Features and Innovations - visual selection (3)](https://github.com/user-attachments/assets/f53f1ed6-da47-4ce8-bba3-0828569f5449)
+
 
 ### 🏏 Core Cricket Features
 
@@ -502,6 +514,9 @@ A complete cycle of:
 - Community cricket resources
 - Organized platform categorization
 
+  ![Unique Features and Innovations - visual selection (4)](https://github.com/user-attachments/assets/598d3934-d91d-450b-9979-143b98421d88)
+
+
 ---
 
 ## 🛠 Technology Stack
@@ -551,6 +566,9 @@ I integrated Lucide React for all iconography, providing a consistent and modern
 ### **Deployment & Hosting**
 - **Netlify** - Continuous deployment and hosting
 - **Git** - Version control and collaboration
+
+  ![Unique Features and Innovations - visual selection (5)](https://github.com/user-attachments/assets/21cba3d4-91d7-4694-b978-5502b89f36bc)
+
 
 ---
 
@@ -1233,23 +1251,6 @@ Optimized for speed and responsiveness with:
 
 ---
 
-## 🚀 Future Enhancements & Scalability
-
-### 🌟 Planned Features
-To make the platform more powerful:
-
-- Real-time multiplayer and challenge modes  
-- AI-powered video analysis tools  
-- Integration with wearable sensors  
-- Smarter AI coaching algorithms with NLP and CV  
-
-### 🏗️ Scalability Considerations
-Designed for future growth with:
-
-- Ready architecture for backend database integration  
-- API-ready structure for real-time updates  
-- Multi-user support and authentication readiness  
-- Cloud storage compatibility for media uploads  
 
 ---
 
@@ -1270,6 +1271,9 @@ Automated and reliable workflow:
 - Netlify for CI/CD deployment with GitHub integration  
 - Environment-specific configuration files  
 - Practiced continuous integration and testing  
+
+![Unique Features and Innovations - visual selection (7)](https://github.com/user-attachments/assets/9ed83b02-6546-477d-8d80-dac46ac1581f)
+
 
 ---
 
@@ -1324,21 +1328,27 @@ The app is fully responsive, visually refined, technically sound, and packed wit
 - **Advanced caching** strategies
 - **Performance monitoring** and optimization
 
+  ![Unique Features and Innovations - visual selection (6)](https://github.com/user-attachments/assets/300d18be-5c2f-4856-ab46-966726fbde32)
+
+### 🌟 Planned Features
+To make the platform more powerful:
+
+- Real-time multiplayer and challenge modes  
+- AI-powered video analysis tools  
+- Integration with wearable sensors  
+- Smarter AI coaching algorithms with NLP and CV  
+
+### 🏗️ Scalability Considerations
+Designed for future growth with:
+
+- Ready architecture for backend database integration  
+- API-ready structure for real-time updates  
+- Multi-user support and authentication readiness  
+- Cloud storage compatibility for media uploads
+  
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### **MIT License Summary**
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ❌ Liability
-- ❌ Warranty
-
----
 
 ## 📞 Contact
 
